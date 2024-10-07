@@ -1,0 +1,7 @@
+package fr.insa.soap;
+
+public class AnalyserChaineWS {
+	public int analyser(String chaine) {
+		return chaine.lenght();
+	}
+}
